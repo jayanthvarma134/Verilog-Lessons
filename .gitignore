@@ -1,0 +1,6 @@
+# Directories
+.vscode/
+logs/
+
+#Output files
+*.out
